@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-#The gossip project (stil) THP
+
+# The gossip project (stil) THP
